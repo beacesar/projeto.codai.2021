@@ -31,7 +31,7 @@ body {
 }
 
 .card-perfil {
-    background-color: #21def0 !important;
+    background-color: #1e1136 !important;
     box-shadow: 0px 0px 5px rgb(190, 190, 190);
 }
 
@@ -135,9 +135,8 @@ body {
         justify-content: center !important;
     }
 
-    #texto-1{
+    
 
-    }
 
     #texto-2{
       display: none;  
